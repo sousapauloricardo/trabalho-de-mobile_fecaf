@@ -1,4 +1,4 @@
-# 🛍️ TrendStore - Full E-commerce Mobile Experience
+# 🛍️ Paulo's Store - Full E-commerce Mobile Experience
 
 Bem-vindo ao repositório do **TrendStore**! Este é um projeto desenvolvido do zero para demonstrar minha capacidade de criar aplicações robustas, performáticas e visualmente atraentes utilizando **React Native** e **Expo**.
 
