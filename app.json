@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "trabalho-de-mobile---fecaf",
+    "slug": "snack-57014ee4-0996-4190-88f0-bb4d00b5f9c8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+    }
+  }
+}
